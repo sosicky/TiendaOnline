@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteca.Boleta" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAQAAAwAAAQADgBAAAAAABAAAAEAAAAACAgAABgA=</HashCode>
+      <FileName>Boleta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.CarroCompra" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAABgEAAAIAEAAgACAwAAABQAIIACCASAAAA=</HashCode>
+      <FileName>CarroCompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Producto" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAQAAAAAAQAAAQCUABAEAABAAgQAAIACIgAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Usuario" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAgAAAABAQAIBAAAkAAgAAAkAAAAAACgBDCCAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Biblioteca.TipoProducto" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAAABAAAAAAAAAgAAAAgAAAAAAAAAAABgAAI=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Biblioteca\obj\Debug\Biblioteca.pdb

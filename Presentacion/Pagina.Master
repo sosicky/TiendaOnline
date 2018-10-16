@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Pagina.master.cs" Inherits="Presentacion.Pagina" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--Bootstrap Css-->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="CPHHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <div class="container">
+        <form id="form1" runat="server">
+
+            <!-- mapa del sitio-->
+            <asp:SiteMapPath ID="SiteMapPath1" 
+                runat="server" 
+                Font-Names="Verdana" 
+                Font-Size="0.8em" 
+                PathSeparator=" : ">                
+                <CurrentNodeStyle ForeColor="#333333" />                
+                <NodeStyle Font-Bold="True" ForeColor="#990000" />                
+                <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />                
+                <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+            </asp:SiteMapPath>
+
+            <!-- menu-->
+            <asp:Menu ID="Menu1" 
+                runat="server" 
+                BackColor="#6600FF" 
+                DataSourceID="SiteMapDataSource1" 
+                DynamicHorizontalOffset="2" 
+                Font-Names="Verdana" 
+                Font-Size="0.8em" 
+                ForeColor="White" 
+                Orientation="Horizontal" 
+                StaticDisplayLevels="3" 
+                StaticSubMenuIndent="10px"
+                CssClass="navbar navbar-expand-lg navbar-light bg-info">
+
+                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+            </asp:Menu>
+
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+
+            <!-- contenido de paginas-->
+
+
+
+            <div>
+                <asp:ContentPlaceHolder ID="CPHBody" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="~/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>

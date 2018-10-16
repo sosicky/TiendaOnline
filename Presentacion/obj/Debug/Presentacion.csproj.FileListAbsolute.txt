@@ -1,0 +1,180 @@
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\desktop.ini
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.AppContext.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Console.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.Process.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Pipes.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.AccessControl.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Claims.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Threading.Thread.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\2 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\desktop.ini
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.AppContext.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Console.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.Process.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Pipes.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.AccessControl.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Claims.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Threading.Thread.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.rsp
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.pdb
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.dll
+D:\Drive\Duoc\2018\2 Semestre\DEN 4501\Trabajo grupal\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll.config
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Presentacion.pdb
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csc.rsp
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\csi.rsp
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Biblioteca.pdb
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\sosicky\Desktop\3 Etapa\PaginaWeb1\Presentacion\obj\Debug\Presentacion.pdb
