@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
   
-  <siteMapNode url="Default.aspx" title="Inicio"  description="">
+  <siteMapNode url="Default.aspx" title="Inicio"  description="" >    
 
-    <siteMapNode url="RegistrarUsuario.aspx" title="Registrar Usuario"  description="" />
+    <siteMapNode url="UsuarioRegistrar.aspx" title="Registrar Usuario"  description="" />
     
-    <siteMapNode url="ListarUsuarios.aspx" title="Listar Usuarios"  description="" />
+    <siteMapNode url="UsuarioListar.aspx" title="Listar Usuarios"  description="" />
+    
+    <siteMapNode url="CarroCompra.aspx" title="Carrito" description="" class="fas fa-shopping-cart"/>
+    
     
   </siteMapNode>
 </siteMap>
