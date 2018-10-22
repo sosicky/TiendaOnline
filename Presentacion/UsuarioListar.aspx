@@ -105,37 +105,19 @@
 
 
     <!--grilla-->
-    <asp:GridView ID="GvUsuarios" 
-        runat="server"
-        AutoGenerateColumns="False" 
-        CssClass="table table-bordered" 
-        OnRowDeleting="GvUsuarios_RowDeleting" 
-        OnSelectedIndexChanged="GvUsuarios_SelectedIndexChanged">
+    <!--grilla data -->
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="ObjectDataSource1" CssClass="table table-bordered">
         <Columns>
-            <asp:BoundField DataField="Usr_id" HeaderText="Id usuario" />
-            <asp:BoundField DataField="Usr_passwd" HeaderText="Password" />
-            <asp:BoundField DataField="Usr_name" HeaderText="Nombre usuario" />
-            <asp:BoundField DataField="Usr_fecha_nacimiento" HeaderText="Fecha de nacimiento" />
-            <asp:BoundField DataField="Usr_pais" HeaderText="Pais" />        
-        
-        <asp:TemplateField>
-            <ItemTemplate>
-                <asp:Button ID="BtnEditarUsuario" 
-                    runat="server" 
-                    Text="Editar"  
-                    CssClass="btn btn-dark btn-sm"
-                    CommandName="Select" />
-
-                <asp:Button ID="BtnBorrarUsuario" 
-                    runat="server" 
-                    Text="Borrar" 
-                    CssClass="btn btn-danger btn-sm" 
-                    CommandName="Delete" />
-            </ItemTemplate>
-        </asp:TemplateField>
-        
+            <asp:BoundField DataField="idUsuario" HeaderText="idUsuario" SortExpression="idUsuario" />
+            <asp:BoundField DataField="Nombre" HeaderText="Nombre" SortExpression="Nombre" />
+            <asp:BoundField DataField="Apellido" HeaderText="Apellido" SortExpression="Apellido" />
+            <asp:BoundField DataField="FechaNacimiento" HeaderText="FechaNacimiento" SortExpression="FechaNacimiento" />
+            <asp:BoundField DataField="Usuario1" HeaderText="Usuario1" SortExpression="Usuario1" />
+            <asp:BoundField DataField="Password" HeaderText="Password" SortExpression="Password" />
+            <asp:BoundField DataField="Puntos" HeaderText="Puntos" SortExpression="Puntos" />
         </Columns>
     </asp:GridView>
 
+    <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" OldValuesParameterFormatString="original_{0}" SelectMethod="ListarUsuarios" TypeName="LogicaNegocio.UsuarioBL"></asp:ObjectDataSource>
 
 </asp:Content>

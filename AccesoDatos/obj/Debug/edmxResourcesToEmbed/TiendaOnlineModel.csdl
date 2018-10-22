@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TiendaOnlineModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Boleta">
+    <Key>
+      <PropertyRef Name="idBoleta" />
+    </Key>
+    <Property Name="idBoleta" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <Property Name="Total" Type="Int32" />
+    <Property Name="PtosAcumulados" Type="Int32" />
+    <Property Name="idUsuario" Type="Int32" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Boleta_Usuario" FromRole="Boleta" ToRole="Usuario" />
+    <NavigationProperty Name="CarroCompras" Relationship="Self.FK_CarroCompras_Boleta" FromRole="Boleta" ToRole="CarroCompras" />
+  </EntityType>
+  <EntityType Name="CarroCompras">
+    <Key>
+      <PropertyRef Name="idCarroCompra" />
+    </Key>
+    <Property Name="idBoleta" Type="Int32" />
+    <Property Name="idProducto" Type="Int32" />
+    <Property Name="Cantidad" Type="Int32" />
+    <Property Name="idCarroCompra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Boleta" Relationship="Self.FK_CarroCompras_Boleta" FromRole="CarroCompras" ToRole="Boleta" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_CarroCompras_Producto" FromRole="CarroCompras" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="idProducto" />
+    </Key>
+    <Property Name="idProducto" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Precio" Type="Int32" />
+    <Property Name="PtosCompra" Type="Int32" />
+    <Property Name="PtosCanje" Type="Int32" />
+    <Property Name="idTipoProd" Type="Int32" />
+    <NavigationProperty Name="CarroCompras" Relationship="Self.FK_CarroCompras_Producto" FromRole="Producto" ToRole="CarroCompras" />
+    <NavigationProperty Name="TipoProducto" Relationship="Self.FK_Producto_TipoProducto" FromRole="Producto" ToRole="TipoProducto" />
+  </EntityType>
+  <EntityType Name="TipoProducto">
+    <Key>
+      <PropertyRef Name="idTipoProd" />
+    </Key>
+    <Property Name="idTipoProd" Type="Int32" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Producto_TipoProducto" FromRole="TipoProducto" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="idUsuario" />
+    </Key>
+    <Property Name="idUsuario" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaNacimiento" Type="DateTime" Precision="0" />
+    <Property Name="Usuario1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Puntos" Type="Int32" />
+    <NavigationProperty Name="Boleta" Relationship="Self.FK_Boleta_Usuario" FromRole="Usuario" ToRole="Boleta" />
+  </EntityType>
+  <Association Name="FK_Boleta_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="0..1" />
+    <End Role="Boleta" Type="Self.Boleta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="idUsuario" />
+      </Principal>
+      <Dependent Role="Boleta">
+        <PropertyRef Name="idUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CarroCompras_Boleta">
+    <End Role="Boleta" Type="Self.Boleta" Multiplicity="0..1" />
+    <End Role="CarroCompras" Type="Self.CarroCompras" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boleta">
+        <PropertyRef Name="idBoleta" />
+      </Principal>
+      <Dependent Role="CarroCompras">
+        <PropertyRef Name="idBoleta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CarroCompras_Producto">
+    <End Role="Producto" Type="Self.Producto" Multiplicity="0..1" />
+    <End Role="CarroCompras" Type="Self.CarroCompras" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="idProducto" />
+      </Principal>
+      <Dependent Role="CarroCompras">
+        <PropertyRef Name="idProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_TipoProducto">
+    <End Role="TipoProducto" Type="Self.TipoProducto" Multiplicity="0..1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoProducto">
+        <PropertyRef Name="idTipoProd" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="idTipoProd" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TiendaOnlineEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Boleta" EntityType="Self.Boleta" />
+    <EntitySet Name="CarroCompras" EntityType="Self.CarroCompras" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" />
+    <EntitySet Name="TipoProducto" EntityType="Self.TipoProducto" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Boleta_Usuario" Association="Self.FK_Boleta_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Boleta" EntitySet="Boleta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CarroCompras_Boleta" Association="Self.FK_CarroCompras_Boleta">
+      <End Role="Boleta" EntitySet="Boleta" />
+      <End Role="CarroCompras" EntitySet="CarroCompras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CarroCompras_Producto" Association="Self.FK_CarroCompras_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="CarroCompras" EntitySet="CarroCompras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_TipoProducto" Association="Self.FK_Producto_TipoProducto">
+      <End Role="TipoProducto" EntitySet="TipoProducto" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

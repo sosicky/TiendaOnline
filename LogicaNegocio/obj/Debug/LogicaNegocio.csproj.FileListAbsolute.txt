@@ -1,0 +1,10 @@
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\LogicaNegocio.dll.config
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\sosicky\Documents\GitHub\TiendaOnline\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

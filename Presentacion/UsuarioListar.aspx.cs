@@ -12,44 +12,44 @@ namespace Presentacion
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!Page.IsPostBack)
-            {
+            //if (!Page.IsPostBack)
+            //{
 
-                //coleccion
-                List<Usuario> usuarios = (List<Usuario>)Session["listaUsuarios"];
+            //    //coleccion
+            //    List<Usuario> usuarios = (List<Usuario>)Session["listaUsuarios"];
 
-                //condicion su estubiera vacia la lista
-                if (usuarios == null)
-                {
-                    usuarios = new List<Usuario>();
-                }
+            //    //condicion su estubiera vacia la lista
+            //    if (usuarios == null)
+            //    {
+            //        usuarios = new List<Usuario>();
+            //    }
 
-                //asignar colecciona la grilla
-                GvUsuarios.DataSource = usuarios;
-                GvUsuarios.DataBind();
-            }
+            //    //asignar colecciona la grilla
+            //    GvUsuarios.DataSource = usuarios;
+            //    GvUsuarios.DataBind();
+            //}
         }
 
         //evento generado para borrar usuario
-        protected void GvUsuarios_RowDeleting(object sender, GridViewDeleteEventArgs e)
-        {
-            //coleccion de la session
-            List<Usuario> usuarios = (List<Usuario>)Session["listaUsuarios"];
+        //protected void GvUsuarios_RowDeleting(object sender, GridViewDeleteEventArgs e)
+        //{
+        //    //coleccion de la session
+        //    List<Usuario> usuarios = (List<Usuario>)Session["listaUsuarios"];
 
-            //seleccionar lista a eliminar
-            usuarios.RemoveAt(e.RowIndex);
+        //    //seleccionar lista a eliminar
+        //    usuarios.RemoveAt(e.RowIndex);
 
-            //actualizar lista
-            GvUsuarios.DataSource = usuarios;
-            GvUsuarios.DataBind();
-        }
+        //    //actualizar lista
+        //    GvUsuarios.DataSource = usuarios;
+        //    GvUsuarios.DataBind();
+        //}
 
         //evento generado para editar usuario
-        protected void GvUsuarios_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            //redireccionamiento a pagina editar
-            //i = es el indice de la fila seleccionada
-            Response.Redirect("EditarUsuarios.aspx?i=" + GvUsuarios.SelectedIndex);
-        }
+        //protected void GvUsuarios_SelectedIndexChanged(object sender, EventArgs e)
+        //{
+        //    //redireccionamiento a pagina editar
+        //    //i = es el indice de la fila seleccionada
+        //    Response.Redirect("EditarUsuarios.aspx?i=" + GvUsuarios.SelectedIndex);
+        //}
     }
 }
